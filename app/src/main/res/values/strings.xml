@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="biodata">Nama \t\t\t : Fachrul Muhammad Gumelar \n
+        NIM \t\t\t\t : 1147050056 \n
+        Semester \t : VII (Tujuh) \n
+        TTL \t\t\t\t : Jakarta-10-11\n
+        Jurusan \t\t : Teknik Informatika \n
+        Fakultas \t\t : Sains dan Teknologi \n
+        Kampus \t\t : Universitas Islam Negeri Sunan Gunung Djati Bandung
+    </string>
+    <string name="alamat">
+        Alamat Sekarang \t : \nSolokan Jeruk\n
+        Alamat Asal \t\t : \nSolokan Jeruk
+    </string>
+
+    <string name="moto">
+        Fachrul Ganteng
+    </string>
+</resources>
